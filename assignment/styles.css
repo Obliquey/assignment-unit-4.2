@@ -1,0 +1,8 @@
+header {
+    background-image:radial-gradient(rgba(120,200,30, .5) 30%, rgba(30,120,200, 1));
+}
+h2{
+    background-color:rgba(30,120,200, .5);
+    color: rgba(121, 58, 173, .5);
+}
+
